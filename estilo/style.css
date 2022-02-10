@@ -48,8 +48,13 @@ section.normal {
 
 }
 
+section.imagem > p{
+    background-color: rgba(0, 0, 0, 0.124);
+    width: 400px;
+}
+
 section.imagem {
-background-color: black;
+background-color: rgba(0, 0, 0, 0.515);
 color: white;
 }
 
